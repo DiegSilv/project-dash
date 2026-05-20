@@ -1,21 +1,61 @@
-Indicador;Ano;Há 4 semanas;Há 1 semana;Hoje
-IPCA (variação %);2026;4,80;4,91;4,92
-IPCA (variação %);2027;5,04;3,99;4,00
-IPCA (variação %);2028;4,00;4,00;3,60
-IPCA (variação %);2029;3,64;3,65;3,50
-PIB Total;2026;1,86;1,85;1,85
-PIB Total;2027;1,88;1,80;1,76
-PIB Total;2028;1,77;1,80;2,00
-PIB Total;2029;2,00;2,00;2,00
-Câmbio (R$/US$);2026;5,30;5,20;5,20
-Câmbio (R$/US$);2027;5,10;5,35;5,30
-Câmbio (R$/US$);2028;5,27;5,17;5,40
-Câmbio (R$/US$);2029;5,35;5,34;5,45
-Selic;2026;13,00;13,00;13,25
-Selic;2027;13,25;11,00;11,25
-Selic;2028;11,25;11,50;10,00
-Selic;2029;10,00;10,00;9,88
-IGP-M;2026;4,66;5,60;5,63
-IGP-M;2027;5,63;4,00;4,00
-IGP-M;2028;4,00;4,00;3,82
-IGP-M;2029;3,82;3,82;3,70
+Data_Coleta;Indicador;Ano;Periodo;Valor
+2026-05-19;IPCA (variação %);2026;Há 4 semanas;4.8
+2026-05-19;IPCA (variação %);2026;Há 1 semana;4.91
+2026-05-19;IPCA (variação %);2026;Hoje;4.92
+2026-05-19;IPCA (variação %);2027;Há 4 semanas;5.04
+2026-05-19;IPCA (variação %);2027;Há 1 semana;3.99
+2026-05-19;IPCA (variação %);2027;Hoje;4.0
+2026-05-19;IPCA (variação %);2028;Há 4 semanas;4.0
+2026-05-19;IPCA (variação %);2028;Há 1 semana;4.0
+2026-05-19;IPCA (variação %);2028;Hoje;3.6
+2026-05-19;IPCA (variação %);2029;Há 4 semanas;3.64
+2026-05-19;IPCA (variação %);2029;Há 1 semana;3.65
+2026-05-19;IPCA (variação %);2029;Hoje;3.5
+2026-05-19;PIB Total;2026;Há 4 semanas;1.86
+2026-05-19;PIB Total;2026;Há 1 semana;1.85
+2026-05-19;PIB Total;2026;Hoje;1.85
+2026-05-19;PIB Total;2027;Há 4 semanas;1.88
+2026-05-19;PIB Total;2027;Há 1 semana;1.8
+2026-05-19;PIB Total;2027;Hoje;1.76
+2026-05-19;PIB Total;2028;Há 4 semanas;1.77
+2026-05-19;PIB Total;2028;Há 1 semana;1.8
+2026-05-19;PIB Total;2028;Hoje;2.0
+2026-05-19;PIB Total;2029;Há 4 semanas;2.0
+2026-05-19;PIB Total;2029;Há 1 semana;2.0
+2026-05-19;PIB Total;2029;Hoje;2.0
+2026-05-19;Câmbio (R$/US$);2026;Há 4 semanas;5.3
+2026-05-19;Câmbio (R$/US$);2026;Há 1 semana;5.2
+2026-05-19;Câmbio (R$/US$);2026;Hoje;5.2
+2026-05-19;Câmbio (R$/US$);2027;Há 4 semanas;5.1
+2026-05-19;Câmbio (R$/US$);2027;Há 1 semana;5.35
+2026-05-19;Câmbio (R$/US$);2027;Hoje;5.3
+2026-05-19;Câmbio (R$/US$);2028;Há 4 semanas;5.27
+2026-05-19;Câmbio (R$/US$);2028;Há 1 semana;5.17
+2026-05-19;Câmbio (R$/US$);2028;Hoje;5.4
+2026-05-19;Câmbio (R$/US$);2029;Há 4 semanas;5.35
+2026-05-19;Câmbio (R$/US$);2029;Há 1 semana;5.34
+2026-05-19;Câmbio (R$/US$);2029;Hoje;5.45
+2026-05-19;Selic;2026;Há 4 semanas;13.0
+2026-05-19;Selic;2026;Há 1 semana;13.0
+2026-05-19;Selic;2026;Hoje;13.25
+2026-05-19;Selic;2027;Há 4 semanas;13.25
+2026-05-19;Selic;2027;Há 1 semana;11.0
+2026-05-19;Selic;2027;Hoje;11.25
+2026-05-19;Selic;2028;Há 4 semanas;11.25
+2026-05-19;Selic;2028;Há 1 semana;11.5
+2026-05-19;Selic;2028;Hoje;10.0
+2026-05-19;Selic;2029;Há 4 semanas;10.0
+2026-05-19;Selic;2029;Há 1 semana;10.0
+2026-05-19;Selic;2029;Hoje;9.88
+2026-05-19;IGP-M;2026;Há 4 semanas;4.66
+2026-05-19;IGP-M;2026;Há 1 semana;5.6
+2026-05-19;IGP-M;2026;Hoje;5.63
+2026-05-19;IGP-M;2027;Há 4 semanas;5.63
+2026-05-19;IGP-M;2027;Há 1 semana;4.0
+2026-05-19;IGP-M;2027;Hoje;4.0
+2026-05-19;IGP-M;2028;Há 4 semanas;4.0
+2026-05-19;IGP-M;2028;Há 1 semana;4.0
+2026-05-19;IGP-M;2028;Hoje;3.82
+2026-05-19;IGP-M;2029;Há 4 semanas;3.82
+2026-05-19;IGP-M;2029;Há 1 semana;3.82
+2026-05-19;IGP-M;2029;Hoje;3.7
