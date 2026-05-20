@@ -32,3 +32,6 @@ O sistema realiza automaticamente:
 - Filtro por ano
 - Indicadores de variação econômica
 - Atualização automatizada dos dados
+## Dashboard
+<img width="1032" height="581" alt="image" src="https://github.com/user-attachments/assets/6c1bc659-5010-4fb0-818a-1d2f6447f564" />
+
