@@ -2,3 +2,4 @@ selenium
 pandas
 webdriver_manager
 pdfplumber
+requests
