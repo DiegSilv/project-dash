@@ -42,7 +42,8 @@ for linha in linhas:
 
             numeros = re.findall(r"\d+,\d+", linha)
 
-            numeros = numeros[:12]
+            numeros.pop(7)
+            numeros.pop(3)
 
             for i, ano in enumerate(anos):
 
